@@ -1,0 +1,19 @@
+.navbar {
+  background-color:rgb(147, 233, 10); /* or keep #63E6BE if that's what you want */
+  padding: 0.5rem;
+  border-bottom: 2px solid rgb(31, 1, 1) ;
+}
+.navItem{
+    font-size: 23px;
+    padding: 0.1rem;
+    
+   
+}
+.navItem:hover{
+   transform: rotate(-2deg);
+  transition: transform 0.3s ease;
+
+}
+.navLink:hover{
+    color: rgb(249, 249, 248);
+}
